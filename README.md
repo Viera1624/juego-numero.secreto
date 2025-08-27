@@ -7,3 +7,5 @@
      ```npm install react ```
 
 - Juego 2
+proximamente
+
